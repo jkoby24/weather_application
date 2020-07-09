@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    margin-left: 1rem;
+
+}
+
+.city-container {
+    background-color: whitesmoke;
+}
+
+.search {
+    margin-top: 5px;
+}
+
+.form-inline {
+    margin-bottom: 1rem;;
+}
+
+.list-group {
+    margin-top: 1rem;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+#day-forecast {
+    padding: 20px;
+    text-align: left;
+}
+
+.card {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.col-2 {
+    margin-right: 20px;
+    background-color: #0875f1e0;
+    padding: 5px;
+    border-radius: 4px;
+    color: white;
+    margin-bottom: 5px;
+}
